@@ -14,7 +14,7 @@ const config = {
   "dashboard" : {
     "oauthSecret": "uisuLXorFHmYttrfV8viLOzTqD7RYs6a",
     "callbackURL": "https://alex-dash.glitch.me/callback",
-    "sessionSecret": "seccret1147toxic444gaber",
+    "sessionSecret": "seccret1147toxic444n3k4a",
     "domain": "alex-dash.glitch.me",
     "port": 3000
   },
